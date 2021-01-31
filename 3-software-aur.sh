@@ -24,17 +24,12 @@ PKGS=(
     'freeoffice'                # Office Alternative
     
     # MEDIA ---------------------------------------------------------------
-
+    
     'screenkey'                 # Screencast your keypresses
     'lbry-app-bin'              # LBRY Linux Application
-
-    # COMMUNICATIONS ------------------------------------------------------
-
-    'brave-nightly-bin'         # Brave
     
-
     # THEMES --------------------------------------------------------------
-
+    
     'lightdm-webkit-theme-aether'   # Lightdm Login Theme - https://github.com/NoiSek/Aether#installation
     'materia-gtk-theme'             # Desktop Theme
     'papirus-icon-theme'            # Desktop Icons
