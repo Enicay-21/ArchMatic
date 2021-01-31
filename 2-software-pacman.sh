@@ -95,6 +95,8 @@ PKGS=(
     'kdenlive'              # Movie Render
     'obs-studio'            # Record your screen
     'celluloid'             # Video player
+    'discord'               # Chatting app
+    'firefox'               # Browser
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
