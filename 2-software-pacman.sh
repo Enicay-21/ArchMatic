@@ -70,6 +70,7 @@ PKGS=(
     'freerdp'               # RDP Connections
     'libvncserver'          # VNC Connections
     'nautilus'              # Filesystem browser
+    'dconf-editor'          # Low-level key/value database designed for storing DE settings
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
     'variety'               # Wallpaper changer
